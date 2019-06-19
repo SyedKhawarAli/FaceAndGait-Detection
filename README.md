@@ -2,7 +2,7 @@
 Detecting person by his/her face and gait
 
 ## Screenshots
-<img src="https://github.com/SyedKhawarAli/Scoliosis-Detection/blob/master/Scoliosis_Detection_Screenshots/1.JPG?raw=true" width="45%" height="45%" title="Main"> <img src="https://github.com/SyedKhawarAli/Scoliosis-Detection/blob/master/Scoliosis_Detection_Screenshots/2.JPG?raw=true" width="45%" height="45%" title="Alignment/Balance">
+<img src="https://github.com/SyedKhawarAli/FaceAndGait-Detection/blob/master/FaceAndGait_Detection_Screenshots/1.JPG?raw=true" width="45%" height="45%" title="Main"> <img src="https://github.com/SyedKhawarAli/FaceAndGait-Detection/blob/master/FaceAndGait_Detection_Screenshots/2.JPG?raw=true" width="45%" height="45%" title="Alignment/Balance">
 
 
 ## Built With
